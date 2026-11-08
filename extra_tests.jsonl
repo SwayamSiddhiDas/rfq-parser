@@ -1,0 +1,4 @@
+{"text": "need 3000 pouches 90 mic to Amravati", "expected": {"category": "pouch", "quantity": 3000, "unit": "pcs", "gsm": null, "micron": 90, "location": "Amravati"}}
+{"text": "box chahiye 12 hazar Nanded", "expected": {"category": "corrugated_box", "quantity": 12000, "unit": "pcs", "gsm": null, "micron": null, "location": "Nanded"}}
+{"text": "stretch film 2 tonne 25mic Raipur", "expected": {"category": "film", "quantity": 2, "unit": "mt", "gsm": null, "micron": 25, "location": "Raipur"}}
+{"text": "bopp bag 50kg 1 lakh pcs 80gsm Bhilai", "expected": {"category": "bopp_bag", "quantity": 100000, "unit": "pcs", "gsm": 80, "micron": null, "location": "Bhilai"}}

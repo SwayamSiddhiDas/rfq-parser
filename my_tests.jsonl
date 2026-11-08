@@ -1,0 +1,45 @@
+{"text": "bopp bags chahiye 40 hazaar, 65 gsm, Nagpur", "expected": {"category": "bopp_bag", "quantity": 40000, "unit": "pcs", "gsm": 65, "micron": null, "location": "Nagpur"}}
+{"text": "jumbo bag 1000 kg capacity, 500 pcs, Vadodara", "expected": {"category": "fibc", "quantity": 500, "unit": "pcs", "gsm": null, "micron": null, "location": "Vadodara"}}
+{"text": "need quote for 500 kg shrink wrap 25 mic", "expected": {"category": "film", "quantity": 500, "unit": "kg", "gsm": null, "micron": 25, "location": null}}
+{"text": "50 kg cement bag chahiye 2.5 lac, 80 gsm, Raipur", "expected": {"category": "woven_sack", "quantity": 250000, "unit": "pcs", "gsm": 80, "micron": null, "location": "Raipur"}}
+{"text": "stretch film 23 micron 2.5 MT for Pune", "expected": {"category": "film", "quantity": 2.5, "unit": "mt", "gsm": null, "micron": 23, "location": "Pune"}}
+{"text": "5 ply corrugated box 180 gsm 10,000 pcs Noida", "expected": {"category": "corrugated_box", "quantity": 10000, "unit": "pcs", "gsm": 180, "micron": null, "location": "Noida"}}
+{"text": "plain box chahiye 5 hazar nag, 150 gsm, Delhi", "expected": {"category": "corrugated_box", "quantity": 5000, "unit": "pcs", "gsm": 150, "micron": null, "location": "Delhi"}}
+{"text": "mono carton 300 gsm duplex board 50k units Baddi", "expected": {"category": "mono_carton", "quantity": 50000, "unit": "pcs", "gsm": 300, "micron": null, "location": "Baddi"}}
+{"text": "pouch for 1 kg namkeen, 100 mic, 2 lakh pcs, Jaipur", "expected": {"category": "pouch", "quantity": 200000, "unit": "pcs", "gsm": null, "micron": 100, "location": "Jaipur"}}
+{"text": "corrugated carton 3 ply 12x10x8 inch 140 gsm 3000 boxes Hyderabad", "expected": {"category": "corrugated_box", "quantity": 3000, "unit": "pcs", "gsm": 140, "micron": null, "location": "Hyderabad"}}
+{"text": "need 10 tonnes bopp film 20 micron at Kolkata", "expected": {"category": "film", "quantity": 10, "unit": "mt", "gsm": null, "micron": 20, "location": "Kolkata"}}
+{"text": "pharma mono carton 350gsm 1.2 lakh pcs Chandigarh", "expected": {"category": "mono_carton", "quantity": 120000, "unit": "pcs", "gsm": 350, "micron": null, "location": "Chandigarh"}}
+{"text": "bopp bag 25kg atta packing 30k pcs 70 gsm Karnal", "expected": {"category": "bopp_bag", "quantity": 30000, "unit": "pcs", "gsm": 70, "micron": null, "location": "Karnal"}}
+{"text": "3 side seal pouch 60 micron 50,000 pieces delivery Navi Mumbai", "expected": {"category": "pouch", "quantity": 50000, "unit": "pcs", "gsm": null, "micron": 60, "location": "Navi Mumbai"}}
+{"text": "stretch wrap 23 mic 1200 kgs Gurgaon", "expected": {"category": "film", "quantity": 1200, "unit": "kg", "gsm": null, "micron": 23, "location": "Gurgaon"}}
+{"text": "dear sir pls quote 25000 pcs corrugated shipper cartons 7 ply 22x14x16 inch 220 gsm dispatch Bhiwandi call 9820199881", "expected": {"category": "corrugated_box", "quantity": 25000, "unit": "pcs", "gsm": 220, "micron": null, "location": "Bhiwandi"}}
+{"text": "bhai 1000 kg capacity circular fibc bag chahiye 800 pcs 170 gsm discharge spout cross corner loop Silvassa", "expected": {"category": "fibc", "quantity": 800, "unit": "pcs", "gsm": 170, "micron": null, "location": "Silvassa"}}
+{"text": "atta packing k liye 3 layer printed pouch 120 mic 75k nos delivery Agra", "expected": {"category": "pouch", "quantity": 75000, "unit": "pcs", "gsm": null, "micron": 120, "location": "Agra"}}
+{"text": "50 kg urea packing ad star valve sack white color 80 hazaar bag Jalandhar delivery", "expected": {"category": "woven_sack", "quantity": 80000, "unit": "pcs", "gsm": null, "micron": null, "location": "Jalandhar"}}
+{"text": "kraft corrugated box 3ply for footwear packing 12x6x4 inch 120 gsm 45K boxes Agra mandi", "expected": {"category": "corrugated_box", "quantity": 45000, "unit": "pcs", "gsm": 120, "micron": null, "location": "Agra"}}
+{"text": "hdpe woven sack 25 kg chemical bag unlaminated 50 hazaar pcs 95 gsm Bharuch", "expected": {"category": "woven_sack", "quantity": 50000, "unit": "pcs", "gsm": 95, "micron": null, "location": "Bharuch"}}
+{"text": "sir required 1200 big bag 1.2 tonne rating with liner 180 gsm for soda ash Morbi", "expected": {"category": "fibc", "quantity": 1200, "unit": "pcs", "gsm": 180, "micron": null, "location": "Morbi"}}
+{"text": "corrugated carton box 5 ply heavy duty 18x12x12 inch 180 gsm 8000 dabba delivery Pithampur", "expected": {"category": "corrugated_box", "quantity": 8000, "unit": "pcs", "gsm": 180, "micron": null, "location": "Pithampur"}}
+{"text": "side gusset coffee pouch with degassing valve 130 micron 35k pcs Bengaluru", "expected": {"category": "pouch", "quantity": 35000, "unit": "pcs", "gsm": null, "micron": 130, "location": "Bengaluru"}}
+{"text": "heavy duty master cartons 7-ply 250 gsm kraft 2500 pcs Faridabad", "expected": {"category": "corrugated_box", "quantity": 2500, "unit": "pcs", "gsm": 250, "micron": null, "location": "Faridabad"}}
+{"text": "transparent vacuum pouches for frozen fish 120 mic 10 hazaar piece Kochi", "expected": {"category": "pouch", "quantity": 10000, "unit": "pcs", "gsm": null, "micron": 120, "location": "Kochi"}}
+{"text": "woven bori plain white 50 kg grain packing 35000 pcs 68 gsm Bareilly", "expected": {"category": "woven_sack", "quantity": 35000, "unit": "pcs", "gsm": 68, "micron": null, "location": "Bareilly"}}
+{"text": "ldpe shrink film roll 80 micron for beverage bottle bundling 6 MT Hosur plant", "expected": {"category": "film", "quantity": 6, "unit": "mt", "gsm": null, "micron": 80, "location": "Hosur"}}
+{"text": "3 ply plain brown boxes 14x10x6 inch 10000 pcs dispatch to Sonipat", "expected": {"category": "corrugated_box", "quantity": 10000, "unit": "pcs", "gsm": null, "micron": null, "location": "Sonipat"}}
+{"text": "cement bori 50kg ad-star woven bags 3 lakh pcs 72 gsm delivery Bhubaneswar", "expected": {"category": "woven_sack", "quantity": 300000, "unit": "pcs", "gsm": 72, "micron": null, "location": "Bhubaneswar"}}
+{"text": "stretch film roll 500mm width 23 micron 850 kgs urgent requirement Panipat", "expected": {"category": "film", "quantity": 850, "unit": "kg", "gsm": null, "micron": 23, "location": "Panipat"}}
+{"text": "center seal namkeen pouch 200gm 65 mic 40000 pieces Aligarh", "expected": {"category": "pouch", "quantity": 40000, "unit": "pcs", "gsm": null, "micron": 65, "location": "Aligarh"}}
+{"text": "corrugated sheet master box 5 ply 150 gsm 14000 pcs delivery Nashik", "expected": {"category": "corrugated_box", "quantity": 14000, "unit": "pcs", "gsm": 150, "micron": null, "location": "Nashik"}}
+{"text": "hdpe woven bags for fertilizer packing 50 kg 1,20,000 bags 85 gsm Gorakhpur", "expected": {"category": "woven_sack", "quantity": 120000, "unit": "pcs", "gsm": 85, "micron": null, "location": "Gorakhpur"}}
+{"text": "shrink wrap film 40 micron 5 metric tonne for pallet wrapping Visakhapatnam", "expected": {"category": "film", "quantity": 5, "unit": "mt", "gsm": null, "micron": 40, "location": "Visakhapatnam"}}
+{"text": "fibc u panel jumbo sack 1000 kg capacity 3000 bags 175 gsm export to Kenya", "expected": {"category": "fibc", "quantity": 3000, "unit": "pcs", "gsm": 175, "micron": null, "location": "Kenya"}}
+{"text": "monocarton cake box with handle 300 gsm kraft back 12000 pcs Dehradun", "expected": {"category": "mono_carton", "quantity": 12000, "unit": "pcs", "gsm": 300, "micron": null, "location": "Dehradun"}}
+{"text": "retort pouch for ready to eat food 125 micron 60 hazaar pieces Trivandrum", "expected": {"category": "pouch", "quantity": 60000, "unit": "pcs", "gsm": null, "micron": 125, "location": "Trivandrum"}}
+{"text": "woven sack block bottom valve bag for wall putty 40 kg 70000 sacks 75 gsm Udaipur", "expected": {"category": "woven_sack", "quantity": 70000, "unit": "pcs", "gsm": 75, "micron": null, "location": "Udaipur"}}
+{"text": "corrugated shipping dabba 3ply 120 gsm 16x10x10 inch 6000 peti Rohtak", "expected": {"category": "corrugated_box", "quantity": 6000, "unit": "pcs", "gsm": 120, "micron": null, "location": "Rohtak"}}
+{"text": "need 5000 woven sack asap", "expected": {"category": "woven_sack", "quantity": 5000, "unit": "pcs", "gsm": null, "micron": null, "location": null}}
+{"text": "pouch 80 micron 10k pcs", "expected": {"category": "pouch", "quantity": 10000, "unit": "pcs", "gsm": null, "micron": 80, "location": null}}
+{"text": "bopp begs 20 hazar 70gsm bhopal", "expected": {"category": "bopp_bag", "quantity": 20000, "unit": "pcs", "gsm": 70, "micron": null, "location": "Bhopal"}}
+{"text": "stretch film 1 tonne 20 mic Nagpur", "expected": {"category": "film", "quantity": 1, "unit": "mt", "gsm": null, "micron": 20, "location": "Nagpur"}}
+{"text": "mono carton 50000 pcs 300 gsm", "expected": {"category": "mono_carton", "quantity": 50000, "unit": "pcs", "gsm": 300, "micron": null, "location": null}}

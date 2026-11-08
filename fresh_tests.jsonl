@@ -1,0 +1,24 @@
+{"text": "corrugated carton box 18x12x10 inch rate chahiye 9820123456 par call karo", "expected": {"category": "corrugated_box", "quantity": null, "unit": null, "gsm": null, "micron": null, "location": null}}
+{"text": "dispatch 2k pcs 5 ply master cartons 140 gsm to Durgapur plant", "expected": {"category": "corrugated_box", "quantity": 2000, "unit": "pcs", "gsm": 140, "micron": null, "location": "Durgapur"}}
+{"text": "bopp bori 25 kg atta packing urgently require 1.5 lakh", "expected": {"category": "bopp_bag", "quantity": 150000, "unit": "pcs", "gsm": null, "micron": null, "location": null}}
+{"text": "bhai 10 peti sample bhej do and 50000 pcs final order Delhi", "expected": {"category": "corrugated_box", "quantity": 50000, "unit": "pcs", "gsm": null, "micron": null, "location": "Delhi"}}
+{"text": "50 kg cement sack 80 gsm 40 thousand bags dispatch Jharsuguda", "expected": {"category": "woven_sack", "quantity": 40000, "unit": "pcs", "gsm": 80, "micron": null, "location": "Jharsuguda"}}
+{"text": "sir quotation for shrink wrap film roll 25 mic 1500 kg", "expected": {"category": "film", "quantity": 1500, "unit": "kg", "gsm": null, "micron": 25, "location": null}}
+{"text": "mono carton 300 gsm duplex board for sweet box 5000 pcs Balasore", "expected": {"category": "mono_carton", "quantity": 5000, "unit": "pcs", "gsm": 300, "micron": null, "location": "Balasore"}}
+{"text": "fibc bag 1 ton capacity 500 pcs 180 gsm export to Thimphu", "expected": {"category": "fibc", "quantity": 500, "unit": "pcs", "gsm": 180, "micron": null, "location": "Thimphu"}}
+{"text": "stand up zipper pouch for 500 gm namkeen 100 mic ek lakh pcs", "expected": {"category": "pouch", "quantity": 100000, "unit": "pcs", "gsm": null, "micron": 100, "location": null}}
+{"text": "woven sack 70 gsm 35000 bags delivery to Renukoot", "expected": {"category": "woven_sack", "quantity": 35000, "unit": "pcs", "gsm": 70, "micron": null, "location": "Renukoot"}}
+{"text": "stretch wrap roll 29 micron 3 mt supply urgently", "expected": {"category": "film", "quantity": 3, "unit": "mt", "gsm": null, "micron": 29, "location": null}}
+{"text": "plain brown box 12x8x6 inch 5000 nos delivery near Bhabua", "expected": {"category": "corrugated_box", "quantity": 5000, "unit": "pcs", "gsm": null, "micron": null, "location": "Bhabua"}}
+{"text": "cement bag ad star block bottom 2 lakh pcs 75 gsm Sambalpur", "expected": {"category": "woven_sack", "quantity": 200000, "unit": "pcs", "gsm": 75, "micron": null, "location": "Sambalpur"}}
+{"text": "four loop fibc bulk bag 1200 kg load capacity 400 pcs Singrauli", "expected": {"category": "fibc", "quantity": 400, "unit": "pcs", "gsm": null, "micron": null, "location": "Singrauli"}}
+{"text": "zipper pouch 120 micron 25000 pcs for tea packing", "expected": {"category": "pouch", "quantity": 25000, "unit": "pcs", "gsm": null, "micron": 120, "location": null}}
+{"text": "3 ply carton 16x12x8 inch 150 gsm 12000 boxes Korba", "expected": {"category": "corrugated_box", "quantity": 12000, "unit": "pcs", "gsm": 150, "micron": null, "location": "Korba"}}
+{"text": "adstar woven sack 50 kg bori 80 hazaar bag Mirzapur", "expected": {"category": "woven_sack", "quantity": 80000, "unit": "pcs", "gsm": null, "micron": null, "location": "Mirzapur"}}
+{"text": "bopp laminated bag 30 kg feed packing 20k bags 85 gsm send via WhatsApp 9437012345", "expected": {"category": "bopp_bag", "quantity": 20000, "unit": "pcs", "gsm": 85, "micron": null, "location": null}}
+{"text": "mono cartoon box 350 gsm sbs board 15000 pcs Ankleshwar GIDC", "expected": {"category": "mono_carton", "quantity": 15000, "unit": "pcs", "gsm": 350, "micron": null, "location": "Ankleshwar"}}
+{"text": "pouch for 1 kg detergent powder 110 mic 2.5 lac pcs Alwar", "expected": {"category": "pouch", "quantity": 250000, "unit": "pcs", "gsm": null, "micron": 110, "location": "Alwar"}}
+{"text": "5 ply heavy duty box 200 gsm 8000 dabba delivery Daman", "expected": {"category": "corrugated_box", "quantity": 8000, "unit": "pcs", "gsm": 200, "micron": null, "location": "Daman"}}
+{"text": "fibc circular bag 1.5 tonne capacity 600 bags 210 gsm Raigarh", "expected": {"category": "fibc", "quantity": 600, "unit": "pcs", "gsm": 210, "micron": null, "location": "Raigarh"}}
+{"text": "ldpe stretch film 23 mic 850 kgs urgent requirement", "expected": {"category": "film", "quantity": 850, "unit": "kg", "gsm": null, "micron": 23, "location": null}}
+{"text": "corrugated sheets and boxes 7 ply 220 gsm 3000 pcs Hazaribagh", "expected": {"category": "corrugated_box", "quantity": 3000, "unit": "pcs", "gsm": 220, "micron": null, "location": "Hazaribagh"}}
